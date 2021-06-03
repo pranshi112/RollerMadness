@@ -36,7 +36,7 @@ RollerMadness is a simple game which involves the player to collect the collecti
 
 ## Getting Started
 
-The project includes WebGL and Windows Build.
+The project is made on an Editor version 2019.4.16f1 and includes WebGL and Windows Build.
 
 #### WebGL:
   
@@ -61,4 +61,5 @@ In the project folder, navigate to Builds &#8594; Windows &#8594; _Roller Master
 #### Unity:
 
 Open the project in Unity and navigate to File &#8594; Build And Run. This opens the application on your target platform specified in Unity.
+__Note__: If your Editor version doesn't match with the project's, a warning message will be displayed asking you to download that version. Alternatively, download the required version in Unity Hub.
 
