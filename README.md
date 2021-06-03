@@ -60,6 +60,6 @@ In the project folder, navigate to Builds &#8594; Windows &#8594; _Roller Master
 
 #### Unity:
 
-Open the project in Unity and navigate to File &#8594; Build And Run. This opens the application on your target platform specified in Unity.
+Open the project in Unity and navigate to File &#8594; Build And Run. This opens the application on your target platform specified in Unity. <br>
 __Note__: If your Editor version doesn't match with the project's, a warning message will be displayed asking you to download that version. Alternatively, download the required version in Unity Hub.
 
